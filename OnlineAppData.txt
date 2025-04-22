@@ -1,6 +1,4 @@
 [
-	{
-		"App": "bcd"
-		"MachineCode": "abc"
-	}
+  { "App": "WordSuggestion", "MachineCode": "ABC123" },
+  { "App": "AnotherApp", "MachineCode": "XYZ789" }
 ]
