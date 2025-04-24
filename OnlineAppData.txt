@@ -2,6 +2,6 @@
   { 
     "App": "TietDay", 
     "MachineCode": "4c5799ff7d0987e5db2be0485c7850aaecfcb00c1f3b451f5bbdf487e8e23c65",
-    "OnlineDisable": "false"
+    "OnlineDisable": "true"
   } 
 ]
